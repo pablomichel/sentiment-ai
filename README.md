@@ -2,6 +2,12 @@
 
 A Streamlit app for sentiment analysis on customer reviews and text data.
 
+## 🚀 Live Demo
+
+Try the application here:
+
+https://sentiment-ai-e9l2556cjfc3cxmkgzsabn.streamlit.app/
+
 ## Overview
 
 This project uses a Hugging Face transformer model to classify text as positive, neutral, or negative. It can analyze:
